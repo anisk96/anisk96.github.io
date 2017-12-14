@@ -1,3 +1,10 @@
+.header:hover {
+  width: 70%;
+  height: 17%;
+  margin: auto;
+  cursor: pointer;
+}
+
 .box {
   margin: 0 auto;
   background-color: #121212;
@@ -24,3 +31,4 @@
   font-size: 36px;
   font-family: cursive;
 }
+
